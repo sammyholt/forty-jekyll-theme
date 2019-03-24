@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: Experience
+layout: experience
+description: 'All my current and past work experience.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
