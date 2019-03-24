@@ -2,8 +2,8 @@
 title: Samuel Ledesma Holt
 subtitle: Portfolio and Resume
 email: samuel.l.holt@gmail.com
-description: Interactive Resume by Samuel Holt
-baseurl: "" # the subpath of your site, e.g. /blog
+description: 
+baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Samuel Ledesma Holt
 #street_address: 1234 Somewhere Road
@@ -14,16 +14,16 @@ author: Samuel Ledesma Holt
 #phone: (716) 555-5555
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
 500px_url:
 facebook_url:
 github_url: https://github.com/sammyholt
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
 linkedin_url: https://www.linkedin.com/in/samuellholt/
 pinterest_url:
 slack_url:

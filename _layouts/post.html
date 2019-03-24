@@ -21,7 +21,12 @@
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.title }}</h1>
+			<p>{{page.dates}}</p>
 		</header>
+		<ul class="actions">
+				{% if page.live-demo %}<li><a target="_blank" href={{page.live-demo}} class="button">Live Demo</a></li>{% endif %}
+				{% if page.source-code %}<li><a target="_blank" href={{page.source-code}} class="button">Source Code</a></li>{% endif %}
+		</ul>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		<p>{{ content }}</p>
 	</div>

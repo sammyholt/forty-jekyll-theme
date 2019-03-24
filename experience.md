@@ -1,70 +1,80 @@
 ---
 title: Experience
 layout: experience
-description: 'All my current and past work experience.'
-image: assets/images/pic07.jpg
+description: 'My current and past work experience.'
+image: assets/images/work.jpg
 nav-menu: true
 ---
 
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
-
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a class="image">
+			<img src="assets/images/cpp.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Clerical Assistant</h3>
+					<p>Cal Poly Pomona Learning Resource Center</p>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Perform various tasks as an assistant in the university's tutoring center. Greet students and provide excellent service. In addition to the core job responsibilities, I have also helped create new systems and processes to improve the efficiency of the center. I have also developed training materials used by other employees. I've also helped with data management and analysis.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a style="pointer-events: none; cursor: default;" class="button">August 2018 - Present</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+		<a class="image">
+			<img src="assets/images/geek.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Advanced Repair Agent</h3>
+					<p>Best Buy/Geek Squad</p>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a style="pointer-events: none; cursor: default;" class="button">May 2017 - August 2018</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<a class="image">
+			<img src="assets/images/geek.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Consultation Agent</h3>
+					<p>Best Buy/Geek Squad</p>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The Consultation Agent position is mainly a customer service position that involves helping customers on the front counter by selling them the correct protection plan for their needs. The position also involves fulfilling product protection plans and determining the type of work the technicians will need to complete.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a style="pointer-events: none; cursor: default;" class="button">June 2016 - May 2017</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/geek.jpg" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Operations Agent</h3>
+					<p>Best Buy/Geek Squad</p>
+				</header>
+				<p>The Operations Agent position involves working with paperwork and office administration duties. It also involves working with customers and helping them over the phone as well as in-store. The main administrative duties involve shipping and receiving units to and from the repair center, evaluating functionality of returned products, and communicating directly with customers both over the phone and in-store regarding questions about their repairs or warranty policies.</p>
+				<ul class="actions">
+					<li><a style="pointer-events: none; cursor: default;" class="button">January 2016 - June 2016</a></li>
 				</ul>
 			</div>
 		</div>
@@ -75,11 +85,12 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h3>Web Developer</h3>
+			<p>Imtech of California</p>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>This is a contract position which involves designing a full website solution for a company. My responsibilities include dealing with the owners of the company on a daily basis to help them achieve their goals of gaining a better online presence.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a style="pointer-events: none; cursor: default;" class="button">June 2015 - August 2015</a></li>
 		</ul>
 	</div>
 </section>
