@@ -2,8 +2,8 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Samuel'
-description: Test
-image: null
+description: Scroll down to view my projects or keep scrolling to see my work experience.
+image: 'assets/images/banner.jpg'
 author: null
 show_tile: false
 ---

@@ -2,7 +2,7 @@
 title: Samuel Ledesma Holt
 subtitle: Portfolio and Resume
 email: samuel.l.holt@gmail.com
-description: Interactive Resume by Samuel Holt
+description: 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Samuel Ledesma Holt
@@ -21,9 +21,9 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url: https://github.com/sammyholt
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
 linkedin_url: https://www.linkedin.com/in/samuellholt/
 pinterest_url:
 slack_url:
