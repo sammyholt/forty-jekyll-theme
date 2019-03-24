@@ -3,7 +3,7 @@ title: Samuel Ledesma Holt
 subtitle: Portfolio and Resume
 email: samuel.l.holt@gmail.com
 description: 
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Samuel Ledesma Holt
 #street_address: 1234 Somewhere Road
