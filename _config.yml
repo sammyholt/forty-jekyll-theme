@@ -27,7 +27,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/samuellholt/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/sammylholt
+twitter_url:
 
 # build settings
 markdown: kramdown
