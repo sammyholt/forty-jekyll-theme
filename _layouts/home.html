@@ -71,21 +71,28 @@
       {% include tiles.html %}
 
       <!-- Two -->
-      <section id="two">
-        <div class="inner">
-          <header class="major">
-            <h2>About Me</h2>
-          </header>
-          <p>{{ content }}</p>
-          <ul class="actions">
-            <li>
-              <a href="experience.html" class="button icon fa-briefcase"
-                >View my Work Experience</a
-              >
-            </li>
-          </ul>
-        </div>
-      </section>
+<section id="two" class="spotlights">
+	<section>
+		<a class="image">
+			<img src="assets/images/profile-2.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+        <header class="major">
+          <h2>About Me</h2>
+        </header>
+        <p>{{ content }}</p>
+        <ul class="actions">
+          <li>
+            <a href="experience.html" class="button icon fa-briefcase"
+              >View my Work Experience</a
+            >
+          </li>
+        </ul>
+      </div>
+		</div>
+	</section>
+</section>
     </div>
 
     {% include footer.html %}
