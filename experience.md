@@ -38,7 +38,8 @@ nav-menu: true
 					<h3>Advanced Repair Agent</h3>
 					<p>Best Buy/Geek Squad</p>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Perform diagnostics and navigate requested and recommended repairs in a timely fashion 
+Phone and in-person contact with clients to reveal diagnostic discoveries and make recommendations for protecting and defending client devices.  Partner with other team members to ensure proper documentation of client requests.</p>
 				<ul class="actions">
 					<li><a style="pointer-events: none; cursor: default;" class="button">May 2017 - August 2018</a></li>
 				</ul>
