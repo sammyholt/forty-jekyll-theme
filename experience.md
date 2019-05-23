@@ -23,7 +23,7 @@ nav-menu: true
 				</header>
 				<p>Perform various tasks as an assistant in the university's tutoring center. Greet students and provide excellent service. In addition to the core job responsibilities, I have also helped create new systems and processes to improve the efficiency of the center. I have also developed training materials used by other employees. I've also helped with data management and analysis.</p>
 				<ul class="actions">
-					<li><a style="pointer-events: none; cursor: default;" class="button">August 2018 - Present</a></li>
+					<li><a style="pointer-events: none; cursor: default;" class="button">August 2018 - May 2019</a></li>
 				</ul>
 			</div>
 		</div>
