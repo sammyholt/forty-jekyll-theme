@@ -4,7 +4,7 @@ title: LRC Tutoring
 description: LRC Tutoring System is my senior project for my Computer Engineering major.
 image: assets/images/lrc.jpg
 live-demo: https://lrc.sammyholt.com/
-source-code:https://github.com/sammyholt/LRC-Tutoring
+source-code: https://github.com/sammyholt/LRC-Tutoring
 dates: September 2018 - May 2019
 ---
 
