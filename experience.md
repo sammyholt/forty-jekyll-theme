@@ -13,6 +13,23 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
+			<img src="assets/images/wenzel.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Software Engineer</h3>
+					<p>Wenzel Technologies</p>
+				</header>
+				<p>Design and develop software used in the car design industry.</p>
+				<ul class="actions">
+					<li><a style="pointer-events: none; cursor: default;" class="button">July 2019 - Present</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
 			<img src="assets/images/cpp.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
