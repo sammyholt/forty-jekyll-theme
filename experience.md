@@ -13,6 +13,23 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a class="image">
+			<img src="assets/images/extron.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Applications Engineer</h3>
+					<p>Extron</p>
+				</header>
+				<p>Focused on the design, development, and troubleshooting of AV control systems.</p>
+				<ul class="actions">
+					<li><a style="pointer-events: none; cursor: default;" class="button">August 2018 - May 2019</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
 			<img src="assets/images/wenzel.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -23,7 +40,7 @@ nav-menu: true
 				</header>
 				<p>Design and develop software used in the car design industry.</p>
 				<ul class="actions">
-					<li><a style="pointer-events: none; cursor: default;" class="button">July 2019 - Present</a></li>
+					<li><a style="pointer-events: none; cursor: default;" class="button">July 2019 - August 2019</a></li>
 				</ul>
 			</div>
 		</div>
