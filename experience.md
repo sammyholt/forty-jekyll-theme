@@ -23,7 +23,7 @@ nav-menu: true
 				</header>
 				<p>Focused on the design, development, and troubleshooting of AV control systems.</p>
 				<ul class="actions">
-					<li><a style="pointer-events: none; cursor: default;" class="button">August 2018 - May 2019</a></li>
+					<li><a style="pointer-events: none; cursor: default;" class="button">October 2019 - Present</a></li>
 				</ul>
 			</div>
 		</div>
