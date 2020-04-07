@@ -8,10 +8,7 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main">
-
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section id="three">
+	<section>
 	<div class="inner">
 		<header class="major">
 			<h3>Applications Engineer</h3>
@@ -23,6 +20,12 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
+	
+	
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	
 	<section>
 		<a class="image">
 			<img src="assets/images/wenzel.jpg" alt="" data-position="center center" />
