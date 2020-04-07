@@ -11,23 +11,18 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
-	<section>
-		<a class="image">
-			<img src="assets/images/extron.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Applications Engineer</h3>
-					<p>Extron</p>
-				</header>
-				<p>Focused on the design, development, and troubleshooting of AV control systems.</p>
-				<ul class="actions">
-					<li><a style="pointer-events: none; cursor: default;" class="button">October 2019 - Present</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+	<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h3>Applications Engineer</h3>
+			<p>Extron</p>
+		</header>
+		<p>Focused on the design, development, and troubleshooting of AV control systems.</p>
+		<ul class="actions">
+			<li><a style="pointer-events: none; cursor: default;" class="button">October 2019 - Present</a></li>
+		</ul>
+	</div>
+</section>
 	<section>
 		<a class="image">
 			<img src="assets/images/wenzel.jpg" alt="" data-position="center center" />
